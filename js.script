@@ -1,5 +1,5 @@
 function search(){
-    var name=prompt("Enter he birthday boy name");
+    var name=prompt("Enter the birthday boy name");
     if(name==="harish"){
         alert("Cheers to more fun, more memories and cake! Happy birthday")
     }else if(name==="Harish"){
