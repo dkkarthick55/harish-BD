@@ -1,0 +1,19 @@
+function search(){
+    var name=prompt("Enter he birthday boy name");
+    if(name==="harish"){
+        alert("Cheers to more fun, more memories and cake! Happy birthday")
+    }else if(name==="Harish"){
+        alert("Cheers to more fun, more memories and cake! Happy birthday")
+    }else if(name==="kavi"){
+        alert("kavi a*s h*le enter the birthday boy name")
+    }else if(name==="ajay"){
+         alert("ajay a*s h*le enter the birthday boy name")
+    }else if(name==="dilip"){
+         alert("dilip a*s h*le enter the birthday boy name")
+    }else if(name==="somesh"){
+         alert("somesh a*s h*le enter the birthday boy name")
+    } else{
+        alert("enter the birthday person name correctly")
+    }
+
+};
